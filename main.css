@@ -1,0 +1,55 @@
+.navbar {
+    top:0;
+    left: 0;
+    width: 100%;
+    padding: 20px 20px 20px 20px;
+    background-color: black;
+    float: left;
+    margin-bottom: 20px;
+
+}
+.links a{
+
+    font-size: 20px;
+    text-decoration: none;
+    color: aliceblue;
+    margin-right: 20px;
+
+}
+.links{
+    margin-right: 20px;
+    float: right;
+}
+.links a:hover{
+   color: yellow;
+}
+.clear{
+    clear: both;
+}
+
+
+/* position:fixed equal below */
+body {
+    margin: 0; 
+
+}
+.Services{
+
+    padding: 60px;
+    text-align: center;
+    font-size: 32px;
+
+}
+
+.item{
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    
+}
+.item p{
+    
+    padding-left:20px;
+    text-align: center;
+}
+
