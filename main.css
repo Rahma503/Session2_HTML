@@ -38,6 +38,7 @@ body {
     padding: 60px;
     text-align: center;
     font-size: 30px;
+    font-style: italic;
 
 }
 
@@ -46,6 +47,9 @@ body {
     text-align: center;
     font-size: 32px;
     text-transform: uppercase;
+    font-style: italic;
+    
+    
 
 }
 
@@ -107,8 +111,9 @@ body {
 .am{
     padding: 50px;
     text-align: center;
-    font-size: 16px;
+    font-size: 20px;
     text-transform: capitalize;
+    font-style: italic;
 }
 
 .item2 img{
