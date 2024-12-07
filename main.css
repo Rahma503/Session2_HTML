@@ -114,6 +114,7 @@ body {
 .item2 img{
     border-radius: 360px;
     border: 4px solid yellow;
-    
+    width: 300px;
+  
 }
 
